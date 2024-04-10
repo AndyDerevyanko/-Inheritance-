@@ -11,12 +11,5 @@ Try out a working demo [here](https://onlinegdb.com/nbppmhEtb).
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/-Inheritance-/main/images/demo.png" alt="demo" width="300">
 </p>
 
-## 📜 UML Diagram
-- UML Diagram to demonstrate the "Ticket" class' members and methods
-
-<p align="left" style="">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/-Inheritance-/main/images/UML.png" alt="UML diagram" width="500">
-</p>
-
  ## 🔮 [View my REPLIT profile](https://replit.com/@AndyDerevyanko) ## 
 
